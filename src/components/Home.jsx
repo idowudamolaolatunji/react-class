@@ -34,7 +34,7 @@ function Home() {
                     </article>
                 )}
             </main>
-.
+
             {!country && (
                 <div className="input-container">
                     {/* controlled input */}
